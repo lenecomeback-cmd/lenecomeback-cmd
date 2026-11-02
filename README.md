@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lene 👋
 
-<!--
-**lenecomeback-cmd/lenecomeback-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**供应链与咨询背景 · AI 辅助产品实践**
 
-Here are some ideas to get you started:
+我关注如何把真实的工作与生活需求，转化成简单、可用、能持续改进的工具。我的实践结合供应链领域经验、需求分析和 AI 辅助开发，从定义问题、设计使用流程，到测试、反馈和迭代。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 精选作品
+
+| 项目 | 为谁解决什么问题 | 项目介绍 |
+| --- | --- | --- |
+| **存在 · Cunzai** | 帮助希望更主动安排生活的人记录时间、回顾选择 | [查看项目](https://github.com/lenecomeback-cmd/cunzai) |
+| **链学 · Lianxue** | 帮助供应链管理师三级备考者在手机上练习并复习错题 | [查看项目](https://github.com/lenecomeback-cmd/lianxue) |
+
+## 我在做什么
+
+- 从具体场景出发，梳理需求、流程和产品优先级。
+- 借助 AI 完成原型与开发，并通过实际使用发现问题。
+- 把供应链专业知识转化为更容易使用的学习工具。
+- 探索个人产品的用户反馈与商业可行性。
+
+## 关于这些作品
+
+我负责产品方向、需求定义、体验取舍、测试反馈与迭代；AI 协助代码实现和部分内容整理。项目展示页记录产品思路与实践，不代表完整源码或题库已开源。
+
+*Supply chain experience. Practical problems. AI-assisted products.*
