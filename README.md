@@ -6,10 +6,10 @@
 
 ## 精选作品
 
-| 项目 | 为谁解决什么问题 | 项目介绍 |
+| 项目 | 为谁解决什么问题 | 项目介绍与体验 |
 | --- | --- | --- |
-| **存在 · Cunzai** | 帮助希望更主动安排生活的人记录时间、回顾选择 | [查看项目](https://github.com/lenecomeback-cmd/cunzai) |
-| **链学 · Lianxue** | 帮助供应链管理师三级备考者在手机上练习并复习错题 | [查看项目](https://github.com/lenecomeback-cmd/lianxue) |
+| **存在 · Cunzai** | 帮助希望更主动安排生活的人记录时间、回顾选择 | [项目与截图](https://github.com/lenecomeback-cmd/cunzai) · [在线体验](https://dayweave-personal-1023.blondloom512.chatgpt.site/) |
+| **链学 · Lianxue** | 帮助供应链管理师三级备考者在手机上练习并复习错题 | [项目与截图](https://github.com/lenecomeback-cmd/lianxue) · [在线体验](https://lianxue.app.workbuddy.host/?sharecode=BTVZBKNRPV) |
 
 ## 我在做什么
 
@@ -23,3 +23,4 @@
 我负责产品方向、需求定义、体验取舍、测试反馈与迭代；AI 协助代码实现和部分内容整理。项目展示页记录产品思路与实践，不代表完整源码或题库已开源。
 
 *Supply chain experience. Practical problems. AI-assisted products.*
+
